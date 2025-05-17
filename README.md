@@ -5,7 +5,7 @@ This project implements a machine learning model to detect and classify maliciou
 
 ## Dataset
 The dataset contains website data with the following key features:
-- URL length and characteristics
+- URL length and characteristics.
 - Content length
 - DNS query times
 - Special character counts
